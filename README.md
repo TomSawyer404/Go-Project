@@ -8,6 +8,8 @@ Learn Golang by projects
 - [go-weather](https://github.com/TomSawyer404/go-weather)
 - [PortScanner](https://github.com/TomSawyer404/PortScanner)
 - [InstantCommunication](https://github.com/TomSawyer404/InstantCommunication)
+- [ydbase](https://github.com/TomSawyer404/ydbase)
+- [sql-generator](https://github.com/TomSawyer404/sql-generator)
 
 ---
 
